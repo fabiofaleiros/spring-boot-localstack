@@ -33,3 +33,5 @@ build/
 .vscode/
 /@logs.path@/
 /localstack/volume/
+
+logs/
